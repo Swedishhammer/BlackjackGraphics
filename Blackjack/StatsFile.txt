@@ -1,0 +1,7 @@
+Username: 
+Games Played: 1
+Blackjacks: 0
+Wins: 0
+Pushes: 0
+Losses: 0
+Money: 50

@@ -1,0 +1,8 @@
+[x] Create Basic Working Blackjack Game
+[x] Code Ace 11 or 1
+[x] Create Basic Create, Read, Write Stats File commands
+[x] Create helper commands for Stats File
+[x] Log Stats in File
+
+[] Add Basic Menu With Switch Case
+[] Add Username input (+ guest option)
